@@ -1,6 +1,6 @@
 # 🎨 Sleek.ai – AI Web Design Agent
 
-> In this video, you’ll build **Sleek.ai**, an AI-powered Web Design Agent from scratch. Learn how to generate web landing pages, dashboards, login screens, and more — with real-time updates, chat interface, canvas interactions, and full deployment.
+>**Sleek.ai**, an AI-powered Web Design Agent from scratch. Learn how to generate web landing pages, dashboards, login screens, and more — with real-time updates, chat interface, canvas interactions, and full deployment.
 
 ## 🗝️ Key Features 👇
 
